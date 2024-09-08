@@ -14,3 +14,14 @@ To run this script, you'll need the following:
 
 Python 3.x installed on a Linux-based operating system.
 Basic knowledge of Python and Linux commands.
+
+Example Menu Options
+Here are some example options the script may present:
+
+List Files in Directory: Outputs all the files in the current working directory.
+Show System Uptime: Displays how long the system has been running.
+Check Disk Usage: Provides a summary of disk space usage.
+Network Configuration: Shows network status and configurations.
+Memory Usage: Displays the amount of free and used memory in the system.
+Exit Program: Terminates the script.
+You can choose an option by entering its number, and the corresponding command will execute automatically.
